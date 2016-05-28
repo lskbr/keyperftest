@@ -1,0 +1,5 @@
+Django==1.9.6
+fake-factory==0.5.7
+psycopg2==2.6.1
+python-dateutil==2.5.3
+six==1.10.0
