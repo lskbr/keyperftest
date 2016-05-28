@@ -1,7 +1,7 @@
 # keyperftest
 Teste de performance da troca de chaves inteiras por uuids no postgres
 
-Artigo completo no Blog:
+Artigo completo no Blog: http://junglecoders.blogspot.be/2016/05/uso-de-uuids-como-chave-primaria-com.html
 
 # Para testar em sua máquina:
 
